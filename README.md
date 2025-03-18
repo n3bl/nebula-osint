@@ -1,4 +1,4 @@
-# OSINT Tool  
+# 🔍 OSINT Tool  
 
 This OSINT (Open Source Intelligence) tool automates the process of gathering information from various data sources. It is designed for cybersecurity professionals, researchers, and ethical hackers.  
 
