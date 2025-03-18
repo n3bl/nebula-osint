@@ -32,7 +32,7 @@ Below is a list of OSINT modules included in the tool:
 ## 🚀 Usage  
 
 1. Run the tool:  
-   "Nebula Osint.exe" Run the program as administrator  
+   "Nebula.exe" Run the program as administrator  
 
 ## ⚠️ Disclaimer  
 
